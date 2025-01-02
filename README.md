@@ -16,7 +16,7 @@ The advantage of having SCART is that you might be able to get 576i @ 25 FPS
 This will also determine the color quality: SCART is RBG compatible making the images quite crisp! 
 Your main issue would be tear:
 
-You can cobmat it in a couple of ways:
+You can combat it in a couple of ways:
 
 Set the display to mode:
 YUV 4:2:2
