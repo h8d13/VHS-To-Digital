@@ -29,6 +29,7 @@ Go back to OBS settings:
 Make sure to set common FPS value to 25 PAL
 Also make sure you're on BICUBIC 16 Samples: This is what I found best for retro. 
 
+----
 ### Video Input
 
 ```
@@ -43,6 +44,7 @@ Go to the "Sources" box at the bottom and click the +.
 Select Video Capture Device.
 Name it (e.g., "VHS Capture") and click OK.
 
+----
 ### Audio input
 
 ``` sudo apt install pavucontrol```
