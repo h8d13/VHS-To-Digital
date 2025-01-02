@@ -58,3 +58,6 @@ https://github.com/user-attachments/assets/504c38ed-8b5c-4fb4-b4ce-798497cb6b11
 
 It's not perfect and the sound could definetly be improved. The image is quite okay tho, even a bad setting like this interview. 
 
+Why is this cool? 
+
+First of all this interview isn't anywhere on the internet. That's the cool part: obsoclescence. 
