@@ -1,4 +1,4 @@
-# VCR-To-Digital
+# VHS-To-Digital
 
 For the adpaters there are two ways you can go about it:
 
