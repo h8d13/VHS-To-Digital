@@ -14,14 +14,12 @@ From there you should know if yours is using PAL or NTSC or other.
 The advantage of having SCART is that you might be able to get 576i @ 25 FPS
 
 This will also determine the color quality: SCART is RBG compatible making the images quite crisp! 
-Your main issue would be tear:
 
-You can combat it in a couple of ways:
-
-Set the display to mode:
-YUV 4:2:2
-
-Right click your source again and select "deinterlacing" retro, blend or linear you can try different ones. 
+> **_NOTE:_**Your main issue would be tear:
+> You can combat it in a couple of ways:
+> Set the display to mode:
+> YUV 4:2:2
+> Right click your source again and select "deinterlacing" retro, blend or linear you can try different ones. 
 
 Go back to OBS settings: 
 
