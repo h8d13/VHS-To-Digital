@@ -50,6 +50,10 @@ Go back to OBS > In the sound mixers make sure one of them is moving with the VH
 
 ---
 
+###The results
+
+https://github.com/user-attachments/assets/504c38ed-8b5c-4fb4-b4ce-798497cb6b11
+
 
 
 
