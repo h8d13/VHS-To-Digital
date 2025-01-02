@@ -3,6 +3,9 @@
 For the adpaters there are a couple of ways you can go about it:
 
 SCART to HDMI or S-audio or RAC 
+
+-----
+
 I recommend to google your VHS player: Mine was a slvd920bs from Sony.
 
 [1901419.pdf](https://github.com/user-attachments/files/18293494/1901419.pdf)
