@@ -3,7 +3,10 @@
 For the adpaters there are two ways you can go about it:
 
 SCART to HDMI 
-I recommend to google your VHS player: Mine was a slvd920bs from Sony. 
+I recommend to google your VHS player: Mine was a slvd920bs from Sony.
+
+[1901419.pdf](https://github.com/user-attachments/files/18293494/1901419.pdf)
+
 Download their specification sheet (usually at the end of the user manual). 
 
 From there you should know if yours is using PAL or NTSC or other. 
