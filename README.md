@@ -16,6 +16,12 @@ From there you should know if yours is using PAL or NTSC or other.
 
 The advantage of having SCART is that you might be able to get 576i @ 25 FPS
 
+Here is what my adapter looks like:
+
+![Adapter](/sc.png)
+
+
+
 This will also determine the color quality: SCART is RBG compatible making the images quite crisp! 
 
 > **_NOTE:_** Your main issue would be tear:
