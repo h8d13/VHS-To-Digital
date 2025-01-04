@@ -25,9 +25,10 @@ Here is what my adapter looks like:
 This will also determine the color quality: SCART is RBG compatible making the images quite crisp! 
 
 > **_NOTE:_** Your main issue would be tear:
+
 > You can combat it in a couple of ways:
-> Set the display to mode:
-> YUV 4:2:2
+> Set the display to mode: YUV 4:2:2
+
 > Right click your source again and select "deinterlacing" retro, blend or linear you can try different ones. 
 
 Go back to OBS settings: 
