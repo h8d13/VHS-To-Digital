@@ -21,7 +21,8 @@ Here is what my adapter looks like:
 
 ![Adapter](/sc.png)
 
-If you have mini cassettes you can also buy this
+If you have mini cassettes (VHS-C) you can also buy this:
+
 ![51CZxvAMGyL _AC_SL1200_](https://github.com/user-attachments/assets/05471ee0-eb78-4cec-968c-aa8499628a15)
 
 This will also determine the color quality: SCART is RBG compatible making the images quite crisp! 
