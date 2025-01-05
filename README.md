@@ -3,6 +3,7 @@
 For the adpaters there are a couple of ways you can go about it:
 
 SCART to HDMI or S-audio or RAC 
+And a HMDI to USB also.
 
 -----
 
