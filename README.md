@@ -102,6 +102,10 @@ So to combat this we can use LAB colors spaces which preserves colors but let's 
 
 ![comparison_frame](https://github.com/user-attachments/assets/c3e7435d-0918-4c83-9018-d643b83be114)
 
+![comparison_frame](https://github.com/user-attachments/assets/5a0d5908-2bc7-4dc7-a839-1193c8decfda)
+
+
+All the code is available in the /scripts folder :)
 
 
 
