@@ -106,5 +106,10 @@ So to combat this: LAB colors spaces which preserves colors but let's us play ar
 
 All the code is available in the /scripts folder :)
 
+---
 
+
+Now that I'm happy with colors. Let's move on to denoising, sharpen and contrast. We will try to use subtle values to not destroy the original feel. 
+
+![comparison_frame](https://github.com/user-attachments/assets/8723c507-304f-4d7a-ae36-26a41fc2121b)
 
