@@ -37,6 +37,8 @@ Make sure to set common FPS value to 25 PAL
 Also make sure you're on BICUBIC 16 Samples: This is what I found best for retro. 
 
 ----
+## Linux 
+
 ### Video Input
 
 ```
@@ -63,7 +65,7 @@ Go back to OBS > In the sound mixers make sure one of them is moving with the VH
 
 ---
 
-### For Windows the process is the same but Plug and play!
+## For Windows the process is the same but Plug and play!
 
 ### The results
 
@@ -75,7 +77,6 @@ It's not perfect and the sound could definetly be improved. The image is quite o
 Why is this cool? 
 
 First of all this interview isn't anywhere on the internet. That's the cool part: obsoclescence. 
-
 
 ----
 
