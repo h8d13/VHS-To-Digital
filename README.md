@@ -27,6 +27,7 @@ If you have mini cassettes (VHS-C) you can also buy this:
 
 ## This will determine the color quality + res: SCART is RBG compatible making the images quite crisp! 
 ----
+Download OBS (open source and free)
 
 > **_NOTE:_** Your main issue would be tear:
 
