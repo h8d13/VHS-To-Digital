@@ -76,6 +76,32 @@ Why is this cool?
 
 First of all this interview isn't anywhere on the internet. That's the cool part: obsoclescence. 
 
+
+----
+
+This part of the code needs FFMPEG.exe to conserve audio!
+
+Using some post processing techniques we can also try to regain colors that were lost using some maths: 
+
 ![Comparison](/comparison_frame.png)
+
+![comparison_frame](https://github.com/user-attachments/assets/c76e357f-eabb-4ce1-9f48-839a57e2afdc)
+
+![comparison_frame](https://github.com/user-attachments/assets/f6b0b0cb-7037-4bc5-aa22-ef40cad85cf9)
+
+We simply clip the lowest 2% and higest 2% values of RGB graphs.
+
+But that created another issue which was that sometimes it would be too "Warm". 
+
+![comparison_frame](https://github.com/user-attachments/assets/81f373de-4d07-4cec-a29d-965b47fd6eec)
+
+
+----
+
+So to combat this we can use LAB colors spaces which preserves colors but let's us play around with L (Luminance, so light/dark)
+
+![comparison_frame](https://github.com/user-attachments/assets/c3e7435d-0918-4c83-9018-d643b83be114)
+
+
 
 
