@@ -75,3 +75,7 @@ It's not perfect and the sound could definetly be improved. The image is quite o
 Why is this cool? 
 
 First of all this interview isn't anywhere on the internet. That's the cool part: obsoclescence. 
+
+![Comparison](/comparison_frame.png)
+
+
