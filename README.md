@@ -89,9 +89,9 @@ Using some post processing techniques we can also try to regain colors that were
 
 ![comparison_frame](https://github.com/user-attachments/assets/f6b0b0cb-7037-4bc5-aa22-ef40cad85cf9)
 
-We simply clip the lowest 2% and higest 2% values of RGB graphs.
+We simply clip the lowest 2% and higest 2% values of RGB graphs (or at least I thought).
 
-But that created another issue which was that sometimes it would be too "Warm". 
+**But that created another issue which was that sometimes it would be too "Warm". **
 
 ![comparison_frame](https://github.com/user-attachments/assets/81f373de-4d07-4cec-a29d-965b47fd6eec)
 
