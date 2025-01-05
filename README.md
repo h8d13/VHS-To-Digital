@@ -71,7 +71,6 @@ Go back to OBS > In the sound mixers make sure one of them is moving with the VH
 
 https://github.com/user-attachments/assets/504c38ed-8b5c-4fb4-b4ce-798497cb6b11
 
-
 It's not perfect and the sound could definetly be improved. The image is quite okay tho, even a bad setting like this interview. Also GitHub has compression...
 
 Why is this cool? 
@@ -115,3 +114,6 @@ I'm happy with colors. Let's move on to denoising, sharpen and contrast. We will
 ![comparison_frame](https://github.com/user-attachments/assets/e59a74e5-403e-4f25-8809-17965c4a04ec)
 
 All the code is available in the /scripts folder :)
+
+![temp_comparison-ezgif com-optimize](https://github.com/user-attachments/assets/11c46a2d-0ac8-4a42-9231-709062ed90c6)
+
