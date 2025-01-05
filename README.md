@@ -37,7 +37,7 @@ If you have mini cassettes (VHS-C) you can also buy this:
 
 Go back to OBS settings: 
 
-Make sure to set common FPS value to 25 PAL
+Make sure to set common FPS value to 25 PAL and output to 576px.
 Also make sure you're on BICUBIC 16 Samples: This is what I found best for retro. 
 
 ----
